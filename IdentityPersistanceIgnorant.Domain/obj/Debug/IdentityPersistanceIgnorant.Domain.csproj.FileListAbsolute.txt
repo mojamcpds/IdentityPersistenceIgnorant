@@ -1,0 +1,4 @@
+E:\ProjectManagementSystems\IdentityPersistenceIgnorant\IdentityPersistanceIgnorant.Domain\bin\Debug\IdentityPersistanceIgnorant.Domain.dll
+E:\ProjectManagementSystems\IdentityPersistenceIgnorant\IdentityPersistanceIgnorant.Domain\bin\Debug\IdentityPersistanceIgnorant.Domain.pdb
+E:\ProjectManagementSystems\IdentityPersistenceIgnorant\IdentityPersistanceIgnorant.Domain\obj\Debug\IdentityPersistanceIgnorant.Domain.dll
+E:\ProjectManagementSystems\IdentityPersistenceIgnorant\IdentityPersistanceIgnorant.Domain\obj\Debug\IdentityPersistanceIgnorant.Domain.pdb
